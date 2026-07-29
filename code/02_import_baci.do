@@ -20,7 +20,9 @@ forvalues y=2012/2024 {
 }
 * apilar
 clear
-forvalues y=2012/2024 { append using "$INTER/baci_relevant_`y'.dta" }
+forvalues y=2012/2024 {
+    append using "$INTER/baci_relevant_`y'.dta"
+}
 label var trade_value_usd "Valor comercio (USD)"
 label var quantity_tons   "Cantidad (toneladas)"
 save "$INTER/baci_relevant_all.dta", replace

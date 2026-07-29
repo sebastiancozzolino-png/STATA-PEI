@@ -20,7 +20,9 @@ global OUTPUT    "$ROOT/output"
 global CODE      "$ROOT/code"
 global LOGS      "$ROOT/logs"
 global DOC       "$ROOT/documentation"
-foreach d in "$INTER" "$OUTPUT" "$LOGS" { cap mkdir "`d'" }
+foreach d in "$INTER" "$OUTPUT" "$LOGS" {
+    cap mkdir "`d'"
+}
 
 cap log close _all
 log using "$LOGS/master.log", replace text
