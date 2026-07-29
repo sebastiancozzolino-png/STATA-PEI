@@ -1,0 +1,1440 @@
+schedule_country,regime,serial_no,issue,block
+IND,original,16,hs6_030212_not_in_HS2012(HS2002),"0302.1200 --Pacific Salmon ( Oncorhynchus nerka, Oncorhynchus 20% gorbuscha, Oncorhyncus keta,"
+IND,original,17,hs6_030269_not_in_HS2012(HS2002),0302.6990 --- Other 20%
+IND,original,20,hs6_030321_not_in_HS2012(HS2002),"0303.2100 --Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus 20% clarki, Oncorhynchus aguaboni"
+IND,original,21,hs6_030322_not_in_HS2012(HS2002),0303.2200 --Atlantic salmon (Salmo salar) and Danube salmon (Hucho 20% hucho)
+IND,original,22,hs6_030371_not_in_HS2012(HS2002),"0303.7100 --Sardines (Sardina pilchardus, Sardinops spp.), sardinella 20% (Sardinella spp.), brislin"
+IND,original,23,hs6_030374_not_in_HS2012(HS2002),"0303.7400 --Mackerel (Scomber scombrus, Scomber australasicus, Scomber 20% japonicus)"
+IND,original,24,hs6_030377_not_in_HS2012(HS2002),"0303.7700 Sea bass (Dicentrarchus labrax, Dicentrarchus punctatus) 20%"
+IND,original,25,hs6_030378_not_in_HS2012(HS2002),"0303.7800 --Hake (Merluccius spp., Urophycis spp.) : 20%"
+IND,original,26,hs6_030379_not_in_HS2012(HS2002),0303.7910 --- Hilsa 20%
+IND,original,27,hs6_030379_not_in_HS2012(HS2002),0303.7920 --- Dara 20%
+IND,original,28,hs6_030379_not_in_HS2012(HS2002),0303.7930 ---Ribbon fish 20%
+IND,original,29,hs6_030379_not_in_HS2012(HS2002),0303.7940 --- Seer 20%
+IND,original,30,hs6_030379_not_in_HS2012(HS2002),0303.7950 --- Pomfret (white or silver or black) 20%
+IND,original,31,hs6_030379_not_in_HS2012(HS2002),0303.7960 --- Ghole 20%
+IND,original,32,hs6_030379_not_in_HS2012(HS2002),0303.7970 --- Threadfin 20%
+IND,original,33,hs6_030379_not_in_HS2012(HS2002),"0303.7980 ---Croacker, Grouper, Hounder 20% 11"
+IND,original,34,hs6_030379_not_in_HS2012(HS2002),0303.7991 ---- Edible fishmaws of wild life 20%
+IND,original,35,hs6_030379_not_in_HS2012(HS2002),0303.7992 ---- Edible shark fins of wild life 20%
+IND,original,36,hs6_030379_not_in_HS2012(HS2002),0303.7999 ---- Other 20%
+IND,original,37,hs6_030380_not_in_HS2012(HS2002),0303.8010 --- Egg or egg yolk of fish including shrimps 20%
+IND,original,38,hs6_030380_not_in_HS2012(HS2002),0303.8090 --- Other 20%
+IND,original,39,hs6_030410_not_in_HS2012(HS2002),0304.1000 -Fresh or chilled 20%
+IND,original,40,hs6_030420_not_in_HS2012(HS2002),0304.2010 Hilsa 20%
+IND,original,41,hs6_030420_not_in_HS2012(HS2002),0304.2020 Shark 20%
+IND,original,42,hs6_030420_not_in_HS2012(HS2002),0304.2030 Seer 20%
+IND,original,43,hs6_030420_not_in_HS2012(HS2002),0304.2040 Tuna 20%
+IND,original,44,hs6_030420_not_in_HS2012(HS2002),0304.2050 Cuttlefish 20%
+IND,original,45,hs6_030420_not_in_HS2012(HS2002),0304.2090 Other 20%
+IND,original,46,hs6_030490_not_in_HS2012(HS2002),0304.9000 -Other 20%
+IND,original,48,hs6_030530_not_in_HS2012(HS2002),"0305.3000 -Fish fillets, dried, salted or in brine, but not smoked 20%"
+IND,original,53,hs6_030613_not_in_HS2012(HS2002),0306.1311 ---- AFD Shrimp 20%
+IND,original,54,hs6_030613_not_in_HS2012(HS2002),0306.1319 ---- Other 20%
+IND,original,55,hs6_030613_not_in_HS2012(HS2002),0306.1320 --- Prawns 20%
+IND,original,81,hs6_160520_not_in_HS2012(HS2002),1605.2000 - Shrimps and prawns 20%
+IND,original,82,hs6_160590_not_in_HS2012(HS2002),1605.9010 --- Clams 20%
+IND,original,83,hs6_160590_not_in_HS2012(HS2002),"1605.9020 --- Squid, octopus and cuttlefish 20%"
+IND,original,84,hs6_160590_not_in_HS2012(HS2002),1605.9030 --- Oysters 20%
+IND,original,85,hs6_160590_not_in_HS2012(HS2002),1605.9090 --- Other 20%
+IND,original,98,hs6_290614_not_in_HS2012(HS2002),2906.1400 --Terpineols 20%
+IND,original,129,hs6_441031_not_in_HS2012(HS2002),4410.3110 ---- Plain particle boards 20%
+IND,original,130,hs6_441031_not_in_HS2012(HS2002),4410.3120 ---- Insulation board and hardboard 20%
+IND,original,131,hs6_441031_not_in_HS2012(HS2002),"4410.3130 ---- Veneered particle board, not having decorative veneers on 20% any face"
+IND,original,132,hs6_441031_not_in_HS2012(HS2002),4410.3190 Other 20%
+IND,original,133,hs6_441032_not_in_HS2012(HS2002),4410.3210 ---- Plain particle boards 20%
+IND,original,134,hs6_441032_not_in_HS2012(HS2002),4410.3220 ---- Insulation board and hardboard 20%
+IND,original,135,hs6_441032_not_in_HS2012(HS2002),"4410.3230 ---- Veneered particle board, not having decorative veneers on 20% any face"
+IND,original,136,hs6_441032_not_in_HS2012(HS2002),4410.3290 Other 20%
+IND,original,137,hs6_441111_not_in_HS2012(HS2002),4411.1110 ---- Hardboard 20%
+IND,original,138,hs6_441111_not_in_HS2012(HS2002),4411.1190 Other 20%
+IND,original,139,hs6_441119_not_in_HS2012(HS2002),4411.1910 ---- Hardboard 20%
+IND,original,140,hs6_441119_not_in_HS2012(HS2002),4411.1990 Other 20%
+IND,original,141,hs6_441121_not_in_HS2012(HS2002),4411.2110 ---- Insulation board 20%
+IND,original,142,hs6_441121_not_in_HS2012(HS2002),4411.2190 Other 20%
+IND,original,143,hs6_441129_not_in_HS2012(HS2002),4411.2910 ---- Insulation board 20%
+IND,original,144,hs6_441129_not_in_HS2012(HS2002),4411.2990 Other 20%
+IND,original,145,hs6_441131_not_in_HS2012(HS2002),4411.3110 ---- Insulation board 20%
+IND,original,146,hs6_441131_not_in_HS2012(HS2002),4411.3190 Other 20%
+IND,original,147,hs6_441139_not_in_HS2012(HS2002),4411.3910 ---- Insulation board 20%
+IND,original,148,hs6_441139_not_in_HS2012(HS2002),4411.3990 Other 20%
+IND,original,149,hs6_441219_not_in_HS2012(HS2002),4412.1910 ---- Decorative plywood 20%
+IND,original,150,hs6_441219_not_in_HS2012(HS2002),4412.1930 ---- Marine and aircraft plywood 20% 14
+IND,original,151,hs6_441219_not_in_HS2012(HS2002),4412.1940 ---- Cuttings and trimmings of plywood of width not exceeding 5 20% cm
+IND,original,152,hs6_441219_not_in_HS2012(HS2002),4412.1990 Other 20%
+IND,expanded_2017,29,hs6_030299_not_in_HS2012(HS2017),"030299 All Goods of tariff item 03021300 50% All Goods of tariff items 03021100,"
+IND,expanded_2017,30,hs6_030299_not_in_HS2012(HS2017),"030299 03024700, 03028300, 03028910, 20% 03028920, 03028930, 03028990 Sockeye salmon (red salmon)"
+IND,expanded_2017,51,hs6_030359_not_in_HS2012(HS2017),"03035900 Other 20% Carp (Cyprinus carpio, Carassius Carassius, Ctenopharyngodon idellus, Hypophthalm"
+IND,expanded_2017,53,hs6_030399_not_in_HS2012(HS2017),03039910 tails and maws 20% Other edible fish offal
+IND,expanded_2017,54,hs6_030399_not_in_HS2012(HS2017),03039990 20% Egg or egg yolk of fish
+IND,expanded_2017,55,hs6_030391_not_in_HS2012(HS2017),03039110 20% Other
+IND,expanded_2017,56,hs6_030391_not_in_HS2012(HS2017),03039190 20%
+IND,expanded_2017,57,hs6_030391_not_in_HS2012(HS2017),"03039190 Other 50% Fish fins, heads, tails, maws and other edible fish offal of tariff items 0303110"
+IND,expanded_2017,58,hs6_030399_not_in_HS2012(HS2017),"030399 50% 03031200, 3031300, 03035700, 03036300, 03038400, 03036600 Fish fins, heads, tails, maws a"
+IND,expanded_2017,59,hs6_030399_not_in_HS2012(HS2017),"030399 20% 03038910, 03038920, 03038930, 03038940, 03038950, 03038960, 03038970, 03038980 Swordfish "
+IND,expanded_2017,65,hs6_030447_not_in_HS2012(HS2017),03044700 50% Rays and skates (Rajidae)
+IND,expanded_2017,66,hs6_030448_not_in_HS2012(HS2017),03044800 50%
+IND,expanded_2017,69,hs6_030456_not_in_HS2012(HS2017),03045600 50% Rays and skates (Rajidae)
+IND,expanded_2017,70,hs6_030457_not_in_HS2012(HS2017),03045700 50%
+IND,expanded_2017,74,hs6_030488_not_in_HS2012(HS2017),03048820 20% Rays and skates (Rajidae)
+IND,expanded_2017,75,range_or_alternative,"03048930 20% 030461 to Frozen fillets of fish other than Swordfish,"
+IND,expanded_2017,75,range_or_alternative,"03048930 20% 030461 to Frozen fillets of fish other than Swordfish,"
+IND,expanded_2017,80,hs6_030496_not_in_HS2012(HS2017),"03049600 Osteochilus hasselti, Leptobarbus hoeveni, 50% Megalobrama spp. All Goods of Catla catla, L"
+IND,expanded_2017,81,hs6_030497_not_in_HS2012(HS2017),"03049700 Osteochilus hasselti, Leptobarbus hoeveni, 50% Megalobrama spp."
+IND,expanded_2017,93,hs6_030552_not_in_HS2012(HS2017),"03055200 50% Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), "
+IND,expanded_2017,94,hs6_030553_not_in_HS2012(HS2017),"03055300 Muraenolepididae, other than cod ( Gadus 50% morhua, Gadus ogac, Gadus macrocephalus) Herri"
+IND,expanded_2017,95,hs6_030554_not_in_HS2012(HS2017),"03055400 50% seerfishes (Scomberomorus spp.), jack and horse mackerel (Trachurus spp.), jacks, creva"
+IND,expanded_2017,105,hs6_030722_not_in_HS2012(HS2017),03072200 50% other
+IND,expanded_2017,108,hs6_030732_not_in_HS2012(HS2017),03073200 50% Other
+IND,expanded_2017,110,hs6_030752_not_in_HS2012(HS2017),03075200 50% other
+IND,expanded_2017,112,hs6_030782_not_in_HS2012(HS2017),"03078200 (Strombus spp.) 50% Live, fresh or chilled"
+IND,expanded_2017,116,no_code_textual,50% Guts of cattle for natural food casings
+IND,expanded_2017,144,hs6_080521_not_in_HS2012(HS2017),08052100 satsumas) 20% Clementines
+IND,expanded_2017,145,hs6_080522_not_in_HS2012(HS2017),08052200 20% Other
+IND,expanded_2017,146,hs6_080529_not_in_HS2012(HS2017),08052900 20% Fresh
+IND,expanded_2017,307,hs6_220291_not_in_HS2012(HS2017),"22029100 50% Soya milk drinks, whether or not"
+IND,expanded_2017,308,hs6_220299_not_in_HS2012(HS2017),22029910 sweetened or flavoured 50% Fruit pulp or fruit juice based drink
+IND,expanded_2017,309,hs6_220299_not_in_HS2012(HS2017),22029920 50% Beverages containing milk
+IND,expanded_2017,310,hs6_220299_not_in_HS2012(HS2017),22029930 50% Other
+IND,expanded_2017,311,hs6_220299_not_in_HS2012(HS2017),22029990 50% Meat meals and pellets (including
+IND,expanded_2017,346,range_or_alternative,26011139 80% 26011141 to Iron ore fines (below 62% Fe) 80% 26011149 Iron ore concentrates
+IND,expanded_2017,346,range_or_alternative,26011139 80% 26011141 to Iron ore fines (below 62% Fe) 80% 26011149 Iron ore concentrates
+IND,expanded_2017,346,range_or_alternative,26011139 80% 26011141 to Iron ore fines (below 62% Fe) 80% 26011149 Iron ore concentrates
+IND,expanded_2017,347,no_code_textual,
+IND,expanded_2017,393,hs6_285390_not_in_HS2012(HS2017),"28539090 ferrophosphorus, of copper (phosphor 80% copper), containing more than 15% by weight of pho"
+IND,expanded_2017,450,hs6_300441_not_in_HS2012(HS2017),30044100 40% Containing pseudoephedrine (INN) or its
+IND,expanded_2017,451,hs6_300442_not_in_HS2012(HS2017),30044200 salts 40% Containing norephedrine or its salts
+IND,expanded_2017,452,hs6_300443_not_in_HS2012(HS2017),30044300 40% Atropin and salts thereof
+IND,expanded_2017,453,hs6_300449_not_in_HS2012(HS2017),30044910 40% Caffein and salts thereof
+IND,expanded_2017,454,hs6_300449_not_in_HS2012(HS2017),"30044920 40% Codeine and derivatives, with or without"
+IND,expanded_2017,455,hs6_300449_not_in_HS2012(HS2017),"30044930 ephidrine hydrochloride 40% Ergot preparations, ergotamine and salts"
+IND,expanded_2017,456,hs6_300449_not_in_HS2012(HS2017),30044940 thereof 40% Papavarine hydrochloride
+IND,expanded_2017,457,hs6_300449_not_in_HS2012(HS2017),30044950 40% Bromohexin and solbutamol
+IND,expanded_2017,458,hs6_300449_not_in_HS2012(HS2017),30044960 40% Theophylline and salts thereof
+IND,expanded_2017,459,hs6_300449_not_in_HS2012(HS2017),30044970 40% Other
+IND,expanded_2017,460,hs6_300449_not_in_HS2012(HS2017),30044990 40% Heamatinics and Erythropoyetin
+IND,expanded_2017,472,hs6_300460_not_in_HS2012(HS2017),30046000 40% 2 to this Chapter Of Ayurvedic System
+IND,expanded_2017,593,hs6_380859_not_in_HS2012(HS2017),38085900 Fungicides of sub-heading 380892 80% Maneb
+IND,expanded_2017,601,hs6_381231_not_in_HS2012(HS2017),"38123100 1, 2-dihydroquinoline (TMQ) 80% Anti-oxidants for rubber"
+IND,expanded_2017,602,hs6_381239_not_in_HS2012(HS2017),38123910 80% Softeners for rubber
+IND,expanded_2017,603,hs6_381239_not_in_HS2012(HS2017),38123920 80% Vulcanizing agents for rubber
+IND,expanded_2017,604,hs6_381239_not_in_HS2012(HS2017),38123930 80% Other
+IND,expanded_2017,605,hs6_381239_not_in_HS2012(HS2017),38123990 80% Other
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382484_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382485_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382486_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382487_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382488_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382491_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_382499_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_390939_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_401190_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_401190_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440311_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440312_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440321_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440321_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440321_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440322_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440322_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440322_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440323_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440323_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440323_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440323_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440324_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440324_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440324_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440325_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440325_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440325_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440326_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440326_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440326_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440711_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440712_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440719_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440719_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440796_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_440797_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_940610_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_940610_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_940610_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_940610_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_940690_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_940690_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_940690_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_940690_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442191_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_962000_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,hs6_442199_not_in_HS2012(HS2017),"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,606,range_or_alternative,"38220090 80% 3824 84 00 Containing aldrin (ISO), camphechlor 80% (ISO) (toxaphene), chlordane (ISO),"
+IND,expanded_2017,607,no_code_textual,
+IND,expanded_2017,608,no_code_textual,
+IND,expanded_2017,609,no_code_textual,
+IND,expanded_2017,610,no_code_textual,
+IND,expanded_2017,611,no_code_textual,
+IND,expanded_2017,612,no_code_textual,
+IND,expanded_2017,613,no_code_textual,
+IND,expanded_2017,614,no_code_textual,
+IND,expanded_2017,615,no_code_textual,
+IND,expanded_2017,616,no_code_textual,
+IND,expanded_2017,617,no_code_textual,
+IND,expanded_2017,618,no_code_textual,
+IND,expanded_2017,619,no_code_textual,
+IND,expanded_2017,620,no_code_textual,
+IND,expanded_2017,621,no_code_textual,
+IND,expanded_2017,622,no_code_textual,
+IND,expanded_2017,623,no_code_textual,
+IND,expanded_2017,624,no_code_textual,
+IND,expanded_2017,625,no_code_textual,
+IND,expanded_2017,626,no_code_textual,
+IND,expanded_2017,627,no_code_textual,
+IND,expanded_2017,628,no_code_textual,
+IND,expanded_2017,629,no_code_textual,
+IND,expanded_2017,630,no_code_textual,
+IND,expanded_2017,631,no_code_textual,
+IND,expanded_2017,632,no_code_textual,
+IND,expanded_2017,633,no_code_textual,
+IND,expanded_2017,634,no_code_textual,
+IND,expanded_2017,635,no_code_textual,
+IND,expanded_2017,636,no_code_textual,
+IND,expanded_2017,637,no_code_textual,
+IND,expanded_2017,638,no_code_textual,
+IND,expanded_2017,639,no_code_textual,
+IND,expanded_2017,640,no_code_textual,
+IND,expanded_2017,641,no_code_textual,
+IND,expanded_2017,642,no_code_textual,
+IND,expanded_2017,643,no_code_textual,
+IND,expanded_2017,644,no_code_textual,
+IND,expanded_2017,645,no_code_textual,
+IND,expanded_2017,646,no_code_textual,
+IND,expanded_2017,647,no_code_textual,
+IND,expanded_2017,648,no_code_textual,
+IND,expanded_2017,649,no_code_textual,
+IND,expanded_2017,650,no_code_textual,
+IND,expanded_2017,651,no_code_textual,
+IND,expanded_2017,652,no_code_textual,
+IND,expanded_2017,653,no_code_textual,
+IND,expanded_2017,654,no_code_textual,
+IND,expanded_2017,655,no_code_textual,
+IND,expanded_2017,656,no_code_textual,
+IND,expanded_2017,657,no_code_textual,
+IND,expanded_2017,658,no_code_textual,
+IND,expanded_2017,659,no_code_textual,
+IND,expanded_2017,660,no_code_textual,
+IND,expanded_2017,661,no_code_textual,
+IND,expanded_2017,662,no_code_textual,
+IND,expanded_2017,663,no_code_textual,
+IND,expanded_2017,664,no_code_textual,
+IND,expanded_2017,665,no_code_textual,
+IND,expanded_2017,666,no_code_textual,
+IND,expanded_2017,667,no_code_textual,
+IND,expanded_2017,668,no_code_textual,
+IND,expanded_2017,669,no_code_textual,
+IND,expanded_2017,670,no_code_textual,
+IND,expanded_2017,671,no_code_textual,
+IND,expanded_2017,672,no_code_textual,
+IND,expanded_2017,673,no_code_textual,
+IND,expanded_2017,674,no_code_textual,
+IND,expanded_2017,675,no_code_textual,
+IND,expanded_2017,676,no_code_textual,
+IND,expanded_2017,677,no_code_textual,
+IND,expanded_2017,678,no_code_textual,
+IND,expanded_2017,679,no_code_textual,
+IND,expanded_2017,680,no_code_textual,
+IND,expanded_2017,681,no_code_textual,
+IND,expanded_2017,682,no_code_textual,
+IND,expanded_2017,683,no_code_textual,
+IND,expanded_2017,684,no_code_textual,
+IND,expanded_2017,685,no_code_textual,
+IND,expanded_2017,686,no_code_textual,
+IND,expanded_2017,687,no_code_textual,
+IND,expanded_2017,688,no_code_textual,
+IND,expanded_2017,689,no_code_textual,
+IND,expanded_2017,690,no_code_textual,
+IND,expanded_2017,691,no_code_textual,
+IND,expanded_2017,692,no_code_textual,
+IND,expanded_2017,693,no_code_textual,
+IND,expanded_2017,694,no_code_textual,
+IND,expanded_2017,695,no_code_textual,
+IND,expanded_2017,696,no_code_textual,
+IND,expanded_2017,697,no_code_textual,
+IND,expanded_2017,698,no_code_textual,
+IND,expanded_2017,699,no_code_textual,
+IND,expanded_2017,700,no_code_textual,
+IND,expanded_2017,701,no_code_textual,
+IND,expanded_2017,702,no_code_textual,
+IND,expanded_2017,703,no_code_textual,
+IND,expanded_2017,704,no_code_textual,
+IND,expanded_2017,705,no_code_textual,
+IND,expanded_2017,706,no_code_textual,
+IND,expanded_2017,707,no_code_textual,
+IND,expanded_2017,708,no_code_textual,
+IND,expanded_2017,709,no_code_textual,
+IND,expanded_2017,710,no_code_textual,
+IND,expanded_2017,711,no_code_textual,
+IND,expanded_2017,712,no_code_textual,
+IND,expanded_2017,713,no_code_textual,
+IND,expanded_2017,714,no_code_textual,
+IND,expanded_2017,715,no_code_textual,
+IND,expanded_2017,716,no_code_textual,
+IND,expanded_2017,717,no_code_textual,
+IND,expanded_2017,718,no_code_textual,
+IND,expanded_2017,719,no_code_textual,
+IND,expanded_2017,720,no_code_textual,
+IND,expanded_2017,721,no_code_textual,
+IND,expanded_2017,722,no_code_textual,
+IND,expanded_2017,723,no_code_textual,
+IND,expanded_2017,724,no_code_textual,
+IND,expanded_2017,725,no_code_textual,
+IND,expanded_2017,726,no_code_textual,
+IND,expanded_2017,727,no_code_textual,
+IND,expanded_2017,728,no_code_textual,
+IND,expanded_2017,729,no_code_textual,
+IND,expanded_2017,730,no_code_textual,
+IND,expanded_2017,731,no_code_textual,
+IND,expanded_2017,732,no_code_textual,
+IND,expanded_2017,733,no_code_textual,
+IND,expanded_2017,734,no_code_textual,
+IND,expanded_2017,735,no_code_textual,
+IND,expanded_2017,736,no_code_textual,
+IND,expanded_2017,737,no_code_textual,
+IND,expanded_2017,738,no_code_textual,
+IND,expanded_2017,739,no_code_textual,
+IND,expanded_2017,740,no_code_textual,
+IND,expanded_2017,741,no_code_textual,
+IND,expanded_2017,742,no_code_textual,
+IND,expanded_2017,743,no_code_textual,
+IND,expanded_2017,744,no_code_textual,
+IND,expanded_2017,745,no_code_textual,
+IND,expanded_2017,746,no_code_textual,
+IND,expanded_2017,747,no_code_textual,
+IND,expanded_2017,748,no_code_textual,
+IND,expanded_2017,749,no_code_textual,
+IND,expanded_2017,750,no_code_textual,
+IND,expanded_2017,751,no_code_textual,
+IND,expanded_2017,752,no_code_textual,
+IND,expanded_2017,753,no_code_textual,
+IND,expanded_2017,754,no_code_textual,
+IND,expanded_2017,755,no_code_textual,
+IND,expanded_2017,756,no_code_textual,
+IND,expanded_2017,757,no_code_textual,
+IND,expanded_2017,758,no_code_textual,
+IND,expanded_2017,759,no_code_textual,
+IND,expanded_2017,760,no_code_textual,
+IND,expanded_2017,761,no_code_textual,
+IND,expanded_2017,762,no_code_textual,
+IND,expanded_2017,763,no_code_textual,
+IND,expanded_2017,764,no_code_textual,
+IND,expanded_2017,765,no_code_textual,
+IND,expanded_2017,766,no_code_textual,
+IND,expanded_2017,767,no_code_textual,
+IND,expanded_2017,768,no_code_textual,
+IND,expanded_2017,769,no_code_textual,
+IND,expanded_2017,770,no_code_textual,
+IND,expanded_2017,771,no_code_textual,
+IND,expanded_2017,772,no_code_textual,
+IND,expanded_2017,773,no_code_textual,
+IND,expanded_2017,774,no_code_textual,
+IND,expanded_2017,775,no_code_textual,
+IND,expanded_2017,776,no_code_textual,
+IND,expanded_2017,777,no_code_textual,
+IND,expanded_2017,778,no_code_textual,
+IND,expanded_2017,779,no_code_textual,
+IND,expanded_2017,780,no_code_textual,
+IND,expanded_2017,781,no_code_textual,
+IND,expanded_2017,782,no_code_textual,
+IND,expanded_2017,783,no_code_textual,
+IND,expanded_2017,784,no_code_textual,
+IND,expanded_2017,785,no_code_textual,
+IND,expanded_2017,786,no_code_textual,
+IND,expanded_2017,787,no_code_textual,
+IND,expanded_2017,788,no_code_textual,
+IND,expanded_2017,789,no_code_textual,
+IND,expanded_2017,790,no_code_textual,
+IND,expanded_2017,791,no_code_textual,
+IND,expanded_2017,792,no_code_textual,
+IND,expanded_2017,793,no_code_textual,
+IND,expanded_2017,794,no_code_textual,
+IND,expanded_2017,795,no_code_textual,
+IND,expanded_2017,796,no_code_textual,
+IND,expanded_2017,797,no_code_textual,
+IND,expanded_2017,798,no_code_textual,
+IND,expanded_2017,799,no_code_textual,
+IND,expanded_2017,800,no_code_textual,
+IND,expanded_2017,801,no_code_textual,
+IND,expanded_2017,802,no_code_textual,
+IND,expanded_2017,803,no_code_textual,
+IND,expanded_2017,804,no_code_textual,
+IND,expanded_2017,805,no_code_textual,
+IND,expanded_2017,806,no_code_textual,
+IND,expanded_2017,807,no_code_textual,
+IND,expanded_2017,808,no_code_textual,
+IND,expanded_2017,809,no_code_textual,
+IND,expanded_2017,810,no_code_textual,
+IND,expanded_2017,811,no_code_textual,
+IND,expanded_2017,812,no_code_textual,
+IND,expanded_2017,813,no_code_textual,
+IND,expanded_2017,814,no_code_textual,
+IND,expanded_2017,815,no_code_textual,
+IND,expanded_2017,816,no_code_textual,
+IND,expanded_2017,817,no_code_textual,
+IND,expanded_2017,818,no_code_textual,
+IND,expanded_2017,819,no_code_textual,
+IND,expanded_2017,820,no_code_textual,
+IND,expanded_2017,821,no_code_textual,
+IND,expanded_2017,822,no_code_textual,
+IND,expanded_2017,823,no_code_textual,
+IND,expanded_2017,824,no_code_textual,
+IND,expanded_2017,825,no_code_textual,
+IND,expanded_2017,826,no_code_textual,
+IND,expanded_2017,827,no_code_textual,
+IND,expanded_2017,828,no_code_textual,
+IND,expanded_2017,829,no_code_textual,
+IND,expanded_2017,830,no_code_textual,
+IND,expanded_2017,831,no_code_textual,
+IND,expanded_2017,832,no_code_textual,
+IND,expanded_2017,833,no_code_textual,
+IND,expanded_2017,834,no_code_textual,
+IND,expanded_2017,835,no_code_textual,
+IND,expanded_2017,836,no_code_textual,
+IND,expanded_2017,837,no_code_textual,
+IND,expanded_2017,838,no_code_textual,
+IND,expanded_2017,839,no_code_textual,
+IND,expanded_2017,840,no_code_textual,
+IND,expanded_2017,841,no_code_textual,
+IND,expanded_2017,842,no_code_textual,
+IND,expanded_2017,843,no_code_textual,
+IND,expanded_2017,844,no_code_textual,
+IND,expanded_2017,845,no_code_textual,
+IND,expanded_2017,846,no_code_textual,
+IND,expanded_2017,847,no_code_textual,
+IND,expanded_2017,848,no_code_textual,
+IND,expanded_2017,849,no_code_textual,
+IND,expanded_2017,850,no_code_textual,
+IND,expanded_2017,851,no_code_textual,
+IND,expanded_2017,852,no_code_textual,
+IND,expanded_2017,853,no_code_textual,
+IND,expanded_2017,854,no_code_textual,
+IND,expanded_2017,855,no_code_textual,
+IND,expanded_2017,856,no_code_textual,
+IND,expanded_2017,857,no_code_textual,
+IND,expanded_2017,858,no_code_textual,
+IND,expanded_2017,859,no_code_textual,
+IND,expanded_2017,860,no_code_textual,
+IND,expanded_2017,861,no_code_textual,
+IND,expanded_2017,862,no_code_textual,
+IND,expanded_2017,863,no_code_textual,
+IND,expanded_2017,864,no_code_textual,
+IND,expanded_2017,865,no_code_textual,
+IND,expanded_2017,866,no_code_textual,
+IND,expanded_2017,867,no_code_textual,
+IND,expanded_2017,868,no_code_textual,
+IND,expanded_2017,869,no_code_textual,
+IND,expanded_2017,870,no_code_textual,
+IND,expanded_2017,871,no_code_textual,
+IND,expanded_2017,872,no_code_textual,
+IND,expanded_2017,873,no_code_textual,
+IND,expanded_2017,874,no_code_textual,
+IND,expanded_2017,875,no_code_textual,
+IND,expanded_2017,876,no_code_textual,
+IND,expanded_2017,877,no_code_textual,
+IND,expanded_2017,878,no_code_textual,
+IND,expanded_2017,879,no_code_textual,
+IND,expanded_2017,880,no_code_textual,
+IND,expanded_2017,881,no_code_textual,
+IND,expanded_2017,882,no_code_textual,
+IND,expanded_2017,883,no_code_textual,
+IND,expanded_2017,884,no_code_textual,
+IND,expanded_2017,885,no_code_textual,
+IND,expanded_2017,886,no_code_textual,
+IND,expanded_2017,887,no_code_textual,
+IND,expanded_2017,888,no_code_textual,
+IND,expanded_2017,889,no_code_textual,
+IND,expanded_2017,890,no_code_textual,
+IND,expanded_2017,891,no_code_textual,
+IND,expanded_2017,892,no_code_textual,
+IND,expanded_2017,893,no_code_textual,
+IND,expanded_2017,894,no_code_textual,
+IND,expanded_2017,895,no_code_textual,
+IND,expanded_2017,896,no_code_textual,
+IND,expanded_2017,897,no_code_textual,
+IND,expanded_2017,898,no_code_textual,
+IND,expanded_2017,899,no_code_textual,
+IND,expanded_2017,900,no_code_textual,
+IND,expanded_2017,901,no_code_textual,
+IND,expanded_2017,902,no_code_textual,
+IND,expanded_2017,903,no_code_textual,
+IND,expanded_2017,904,no_code_textual,
+IND,expanded_2017,905,no_code_textual,
+IND,expanded_2017,906,no_code_textual,
+IND,expanded_2017,907,no_code_textual,
+IND,expanded_2017,908,no_code_textual,
+IND,expanded_2017,909,no_code_textual,
+IND,expanded_2017,910,no_code_textual,
+IND,expanded_2017,911,no_code_textual,
+IND,expanded_2017,912,no_code_textual,
+IND,expanded_2017,913,no_code_textual,
+IND,expanded_2017,914,no_code_textual,
+IND,expanded_2017,915,no_code_textual,
+IND,expanded_2017,916,no_code_textual,
+IND,expanded_2017,917,no_code_textual,
+IND,expanded_2017,918,no_code_textual,
+IND,expanded_2017,919,no_code_textual,
+IND,expanded_2017,920,no_code_textual,
+IND,expanded_2017,921,no_code_textual,
+IND,expanded_2017,922,no_code_textual,
+IND,expanded_2017,923,no_code_textual,
+IND,expanded_2017,924,no_code_textual,
+IND,expanded_2017,925,no_code_textual,
+IND,expanded_2017,926,no_code_textual,
+IND,expanded_2017,927,no_code_textual,
+IND,expanded_2017,928,no_code_textual,
+IND,expanded_2017,929,no_code_textual,
+IND,expanded_2017,930,no_code_textual,
+IND,expanded_2017,931,no_code_textual,
+IND,expanded_2017,932,no_code_textual,
+IND,expanded_2017,933,no_code_textual,
+IND,expanded_2017,934,no_code_textual,
+IND,expanded_2017,935,no_code_textual,
+IND,expanded_2017,936,no_code_textual,
+IND,expanded_2017,937,no_code_textual,
+IND,expanded_2017,938,no_code_textual,
+IND,expanded_2017,939,no_code_textual,
+IND,expanded_2017,940,no_code_textual,
+IND,expanded_2017,941,no_code_textual,
+IND,expanded_2017,942,no_code_textual,
+IND,expanded_2017,943,no_code_textual,
+IND,expanded_2017,944,no_code_textual,
+IND,expanded_2017,945,no_code_textual,
+IND,expanded_2017,946,no_code_textual,
+IND,expanded_2017,947,no_code_textual,
+IND,expanded_2017,948,no_code_textual,
+IND,expanded_2017,949,no_code_textual,
+IND,expanded_2017,950,no_code_textual,
+IND,expanded_2017,951,no_code_textual,
+IND,expanded_2017,952,no_code_textual,
+IND,expanded_2017,953,no_code_textual,
+IND,expanded_2017,954,no_code_textual,
+IND,expanded_2017,955,no_code_textual,
+IND,expanded_2017,956,no_code_textual,
+IND,expanded_2017,957,no_code_textual,
+IND,expanded_2017,958,no_code_textual,
+IND,expanded_2017,959,no_code_textual,
+IND,expanded_2017,960,no_code_textual,
+IND,expanded_2017,961,no_code_textual,
+IND,expanded_2017,962,no_code_textual,
+IND,expanded_2017,963,no_code_textual,
+IND,expanded_2017,964,no_code_textual,
+IND,expanded_2017,965,no_code_textual,
+IND,expanded_2017,966,no_code_textual,
+IND,expanded_2017,967,no_code_textual,
+IND,expanded_2017,968,no_code_textual,
+IND,expanded_2017,969,no_code_textual,
+IND,expanded_2017,970,no_code_textual,
+IND,expanded_2017,971,no_code_textual,
+IND,expanded_2017,972,no_code_textual,
+IND,expanded_2017,973,no_code_textual,
+IND,expanded_2017,974,no_code_textual,
+IND,expanded_2017,975,no_code_textual,
+IND,expanded_2017,976,no_code_textual,
+IND,expanded_2017,977,no_code_textual,
+IND,expanded_2017,978,no_code_textual,
+IND,expanded_2017,979,no_code_textual,
+IND,expanded_2017,980,no_code_textual,
+IND,expanded_2017,981,no_code_textual,
+IND,expanded_2017,982,no_code_textual,
+IND,expanded_2017,983,no_code_textual,
+IND,expanded_2017,984,no_code_textual,
+IND,expanded_2017,985,no_code_textual,
+IND,expanded_2017,986,no_code_textual,
+IND,expanded_2017,987,no_code_textual,
+IND,expanded_2017,988,no_code_textual,
+IND,expanded_2017,989,no_code_textual,
+IND,expanded_2017,990,no_code_textual,
+IND,expanded_2017,991,no_code_textual,
+IND,expanded_2017,992,no_code_textual,
+IND,expanded_2017,993,no_code_textual,
+IND,expanded_2017,994,no_code_textual,
+IND,expanded_2017,995,no_code_textual,
+IND,expanded_2017,996,no_code_textual,
+IND,expanded_2017,997,no_code_textual,
+IND,expanded_2017,998,no_code_textual,
+IND,expanded_2017,999,no_code_textual,
+IND,expanded_2017,1000,no_code_textual,
+IND,expanded_2017,1001,no_code_textual,
+IND,expanded_2017,1002,no_code_textual,
+IND,expanded_2017,1003,no_code_textual,
+IND,expanded_2017,1004,no_code_textual,
+IND,expanded_2017,1005,no_code_textual,
+IND,expanded_2017,1006,no_code_textual,
+IND,expanded_2017,1007,no_code_textual,
+IND,expanded_2017,1008,no_code_textual,
+IND,expanded_2017,1009,no_code_textual,
+IND,expanded_2017,1010,no_code_textual,
+IND,expanded_2017,1011,no_code_textual,
+IND,expanded_2017,1012,no_code_textual,
+IND,expanded_2017,1013,no_code_textual,
+IND,expanded_2017,1014,no_code_textual,
+IND,expanded_2017,1015,no_code_textual,
+IND,expanded_2017,1016,no_code_textual,
+IND,expanded_2017,1017,no_code_textual,
+IND,expanded_2017,1018,no_code_textual,
+IND,expanded_2017,1019,no_code_textual,
+IND,expanded_2017,1020,no_code_textual,
+IND,expanded_2017,1021,no_code_textual,
+IND,expanded_2017,1022,no_code_textual,
+IND,expanded_2017,1023,no_code_textual,
+IND,expanded_2017,1024,no_code_textual,
+IND,expanded_2017,1025,no_code_textual,
+IND,expanded_2017,1026,no_code_textual,
+IND,expanded_2017,1027,no_code_textual,
+IND,expanded_2017,1028,no_code_textual,
+IND,expanded_2017,1029,no_code_textual,
+IND,expanded_2017,1030,no_code_textual,
+IND,expanded_2017,1031,no_code_textual,
+IND,expanded_2017,1032,no_code_textual,
+IND,expanded_2017,1033,no_code_textual,
+IND,expanded_2017,1034,no_code_textual,
+IND,expanded_2017,1035,no_code_textual,
+IND,expanded_2017,1036,no_code_textual,
+IND,expanded_2017,1037,no_code_textual,
+IND,expanded_2017,1038,no_code_textual,
+IND,expanded_2017,1039,no_code_textual,
+IND,expanded_2017,1040,no_code_textual,
+IND,expanded_2017,1041,no_code_textual,
+IND,expanded_2017,1042,no_code_textual,
+IND,expanded_2017,1043,no_code_textual,
+IND,expanded_2017,1044,no_code_textual,
+IND,expanded_2017,1045,no_code_textual,
+IND,expanded_2017,1046,no_code_textual,
+IND,expanded_2017,1047,no_code_textual,
+IND,expanded_2017,1048,no_code_textual,
+IND,expanded_2017,1049,no_code_textual,
+IND,expanded_2017,1050,no_code_textual,
+IND,expanded_2017,1051,no_code_textual,
+IND,expanded_2017,1052,no_code_textual,
+IND,expanded_2017,1053,no_code_textual,
+IND,expanded_2017,1054,no_code_textual,
+IND,expanded_2017,1055,no_code_textual,
+IND,expanded_2017,1056,no_code_textual,
+IND,expanded_2017,1057,no_code_textual,
+IND,expanded_2017,1058,no_code_textual,
+IND,expanded_2017,1059,no_code_textual,
+IND,expanded_2017,1060,no_code_textual,
+IND,expanded_2017,1061,no_code_textual,
+IND,expanded_2017,1062,no_code_textual,
+IND,expanded_2017,1063,no_code_textual,
+IND,expanded_2017,1064,no_code_textual,
+IND,expanded_2017,1065,no_code_textual,
+IND,expanded_2017,1066,no_code_textual,
+IND,expanded_2017,1067,no_code_textual,
+IND,expanded_2017,1068,no_code_textual,
+IND,expanded_2017,1069,no_code_textual,
+IND,expanded_2017,1070,no_code_textual,
+IND,expanded_2017,1071,no_code_textual,
+IND,expanded_2017,1072,no_code_textual,
+IND,expanded_2017,1073,no_code_textual,
+IND,expanded_2017,1074,no_code_textual,
+IND,expanded_2017,1075,no_code_textual,
+IND,expanded_2017,1076,no_code_textual,
+IND,expanded_2017,1077,no_code_textual,
+IND,expanded_2017,1078,no_code_textual,
+IND,expanded_2017,1079,no_code_textual,
+IND,expanded_2017,1080,no_code_textual,
+IND,expanded_2017,1081,no_code_textual,
+IND,expanded_2017,1082,no_code_textual,
+IND,expanded_2017,1083,no_code_textual,
+IND,expanded_2017,1084,no_code_textual,
+IND,expanded_2017,1085,no_code_textual,
+IND,expanded_2017,1086,no_code_textual,
+IND,expanded_2017,1087,no_code_textual,
+IND,expanded_2017,1088,no_code_textual,
+IND,expanded_2017,1089,no_code_textual,
+IND,expanded_2017,1090,no_code_textual,
+IND,expanded_2017,1091,no_code_textual,
+IND,expanded_2017,1092,no_code_textual,
+IND,expanded_2017,1093,no_code_textual,
+IND,expanded_2017,1094,no_code_textual,
+IND,expanded_2017,1095,no_code_textual,
+IND,expanded_2017,1096,no_code_textual,
+IND,expanded_2017,1097,no_code_textual,
+IND,expanded_2017,1098,no_code_textual,
+IND,expanded_2017,1099,no_code_textual,
+IND,expanded_2017,1100,no_code_textual,
+IND,expanded_2017,1101,no_code_textual,
+IND,expanded_2017,1102,no_code_textual,
+IND,expanded_2017,1103,no_code_textual,
+IND,expanded_2017,1104,no_code_textual,
+IND,expanded_2017,1105,no_code_textual,
+IND,expanded_2017,1106,no_code_textual,
+IND,expanded_2017,1107,no_code_textual,
+IND,expanded_2017,1108,no_code_textual,
+IND,expanded_2017,1109,no_code_textual,
+IND,expanded_2017,1110,no_code_textual,
+CHL,original,1,hs6_030613_not_in_HS2012(HS2002),0306.13.19 ---- Los demás 20%
+CHL,original,4,hs6_090930_not_in_HS2012(HS2002),0909.30.00 - Semillas de comino 20%
+CHL,original,13,hs6_290349_not_in_HS2012(HS2002),2903.49.10 --- Clorodifluorometano 50%
+CHL,original,22,hs6_291900_not_in_HS2012(HS2002),"2919.00.00 Ésteres fosfóricos y sus sales, incluidos los lactofosfatos; sus derivados 50% halogenado"
+CHL,original,28,hs6_292520_not_in_HS2012(HS2002),2925.20.00 - Iminas y sus derivados; sales de estos productos 50%
+CHL,original,32,hs6_293229_not_in_HS2012(HS2002),2932.29.00 -- Las demás lactonas 50% 16
+CHL,original,198,hs6_630311_not_in_HS2012(HS2002),6303.11.00 -- De algodón 10%
+CHL,original,236,hs6_761519_not_in_HS2012(HS2002),7615.19.00 -- Los demás 20%
+CHL,original,260,hs6_851719_not_in_HS2012(HS2002),8517.19.90 --- Los demás 20%
+CHL,original,261,hs6_852313_not_in_HS2012(HS2002),"8523.13.00 -- De anchura superior a 6,5 mm 20%"
+CHL,original,262,hs6_852320_not_in_HS2012(HS2002),8523.20.19 --- Los demás 20%
+CHL,original,263,hs6_852390_not_in_HS2012(HS2002),8523.90.00 - Los demás 20%
+CHL,original,264,hs6_852439_not_in_HS2012(HS2002),"8524.39.10 --- Para reproducir representaciones de instrucciones, datos, sonidos e 20% imágenes grab"
+CHL,original,271,hs6_870839_not_in_HS2012(HS2002),8708.39.90 --- Los demás 20%
+CHL,expanded_2017,82,hs6_121150_not_in_HS2012(HS2017),"12115000 - Efedra 60%: No orgánicas, utilizadas principalmente en perfumería, medicina o para usos i"
+CHL,expanded_2017,90,hs6_130214_not_in_HS2012(HS2017),13021400 -- De efedra 80%
+CHL,expanded_2017,136,hs6_271019_not_in_HS2012(HS2017),27101951 ---- Fuel oil 6 60%
+CHL,expanded_2017,137,hs6_271019_not_in_HS2012(HS2017),27101961 ---- Aceites básicos 80%
+CHL,expanded_2017,138,hs6_271019_not_in_HS2012(HS2017),"27101965 ---- Aceites lubricantes terminados, 60% en aerosol con gas propelente"
+CHL,expanded_2017,139,hs6_271019_not_in_HS2012(HS2017),27101966 ---- Los demás aceites lubricantes 60% terminados
+CHL,expanded_2017,140,hs6_271019_not_in_HS2012(HS2017),27101969 ---- Los demás 80%
+CHL,expanded_2017,141,hs6_271019_not_in_HS2012(HS2017),27101999 ---- Los demás 100%
+CHL,expanded_2017,142,hs6_271020_not_in_HS2012(HS2017),27102000 - Aceites de petróleo o de mineral 80% bituminoso (excepto los
+CHL,expanded_2017,173,hs6_290431_not_in_HS2012(HS2017),29043100 -- Ácido perfluorooctano sulfónico 100%
+CHL,expanded_2017,174,hs6_290432_not_in_HS2012(HS2017),29043200 -- Perfluorooctano sulfonato de 100% amonio
+CHL,expanded_2017,175,hs6_290433_not_in_HS2012(HS2017),29043300 -- Perfluorooctano sulfonato de litio 100%
+CHL,expanded_2017,176,hs6_290434_not_in_HS2012(HS2017),29043400 -- Perfluorooctano sulfonato de 100% potasio
+CHL,expanded_2017,177,hs6_290435_not_in_HS2012(HS2017),29043500 -- Las demás sales de ácido 100% perfluorooctano sulfónico
+CHL,expanded_2017,178,hs6_290436_not_in_HS2012(HS2017),29043600 -- Fluoruro de perfluorooctano 100% sulfonilo
+CHL,expanded_2017,179,hs6_290499_not_in_HS2012(HS2017),29049900 -- Los demás 100%
+CHL,expanded_2017,200,hs6_291462_not_in_HS2012(HS2017),29146200 -- Coenzima Q10 (ubidecarenona 100% (DCI))
+CHL,expanded_2017,228,hs6_292029_not_in_HS2012(HS2017),29202990 --- Los demás 100%
+CHL,expanded_2017,229,hs6_292030_not_in_HS2012(HS2017),29203000 - Endosulfán (ISO) 100%
+CHL,expanded_2017,232,hs6_292112_not_in_HS2012(HS2017),"29211200 -- Clorhidrato de 2-cloroetil (N, N- 80% dimetilamina)"
+CHL,expanded_2017,233,hs6_292113_not_in_HS2012(HS2017),"29211300 -- Clorhidrato de 2-cloroetil (N, N- 80% dietilamina)"
+CHL,expanded_2017,234,hs6_292114_not_in_HS2012(HS2017),"29211400 -- Clorhidrato de 2-cloroetil (N, N- 80% diisopropilamina)"
+CHL,expanded_2017,242,hs6_292216_not_in_HS2012(HS2017),29221600 -- Perfluorooctano sulfonato de 80% dietanolamonio
+CHL,expanded_2017,243,hs6_292218_not_in_HS2012(HS2017),"29221800 -- 2-(N, N-Diisopropilamino)etanol 80%"
+CHL,expanded_2017,251,hs6_292330_not_in_HS2012(HS2017),29233000 - Perfluorooctano sulfonato de 80% tetraetilamonio
+CHL,expanded_2017,252,hs6_292340_not_in_HS2012(HS2017),29234000 - Perfluorooctano sulfonato de 80% didecildimetilamonio
+CHL,expanded_2017,255,hs6_292425_not_in_HS2012(HS2017),29242500 -- Alaclor (ISO) 100%
+CHL,expanded_2017,264,hs6_292640_not_in_HS2012(HS2017),29264000 - alfa-Fenilacetoacetonitrilo 100%
+CHL,expanded_2017,267,hs6_293080_not_in_HS2012(HS2017),29308020 -- Captafol (ISO) (CAS 2425-06-1) 80%
+CHL,expanded_2017,268,hs6_293080_not_in_HS2012(HS2017),29308030 -- Metamidofós (ISO) (CAS 10265- 80% 92-6)
+CHL,expanded_2017,275,hs6_293139_not_in_HS2012(HS2017),29313990 --- Los demás 80%
+CHL,expanded_2017,277,hs6_293214_not_in_HS2012(HS2017),29321400 -- Sucralosa 100%
+CHL,expanded_2017,298,hs6_293392_not_in_HS2012(HS2017),29339200 -- Azinfos-metil (ISO) 100%
+CHL,expanded_2017,306,hs6_293510_not_in_HS2012(HS2017),29351000 - N-Metilperfluorooctano sulfonamida 100%
+CHL,expanded_2017,307,hs6_293520_not_in_HS2012(HS2017),29352000 - N-Etilperfluorooctano sulfonamida 100%
+CHL,expanded_2017,308,hs6_293530_not_in_HS2012(HS2017),29353000 - N-Etil-N-(2-hidroxietil) 100% perfluorooctano sulfonamida
+CHL,expanded_2017,309,hs6_293540_not_in_HS2012(HS2017),29354000 - N-(2-Hidroxietil)-N- 100% metilperfluorooctano sulfonamida
+CHL,expanded_2017,310,hs6_293550_not_in_HS2012(HS2017),29355000 - Las demás perfluorooctano 100% sulfonamidas
+CHL,expanded_2017,311,hs6_293590_not_in_HS2012(HS2017),29359000 - Las demás 100%
+CHL,expanded_2017,333,hs6_293971_not_in_HS2012(HS2017),"29397100 -- Cocaína, ecgonina, 100% levometanfetamina, metanfetamina (DCI), racemato"
+CHL,expanded_2017,334,hs6_293979_not_in_HS2012(HS2017),"29397910 --- Escopolamina, sus sales y 100% derivados"
+CHL,expanded_2017,335,hs6_293979_not_in_HS2012(HS2017),29397990 --- Los demás 100%
+CHL,expanded_2017,346,hs6_300211_not_in_HS2012(HS2017),30021100 -- Kit para el diagnóstico de la malaria 100% (paludismo)
+CHL,expanded_2017,347,hs6_300212_not_in_HS2012(HS2017),30021210 --- Para uso humano 100%
+CHL,expanded_2017,348,hs6_300212_not_in_HS2012(HS2017),30021220 --- Para uso veterinario 100%
+CHL,expanded_2017,349,hs6_300213_not_in_HS2012(HS2017),30021311 ---- Anticuerpos monoclonales 100%
+CHL,expanded_2017,350,hs6_300213_not_in_HS2012(HS2017),30021312 ---- Proteínas recombinantes 100%
+CHL,expanded_2017,351,hs6_300213_not_in_HS2012(HS2017),30021313 ---- Péptidos sintéticos 100%
+CHL,expanded_2017,352,hs6_300213_not_in_HS2012(HS2017),30021314 ---- Ácidos nucleicos sintéticos 100%
+CHL,expanded_2017,353,hs6_300213_not_in_HS2012(HS2017),30021319 ---- Los demás 100%
+CHL,expanded_2017,354,hs6_300213_not_in_HS2012(HS2017),30021320 --- Para uso veterinario 100%
+CHL,expanded_2017,355,hs6_300214_not_in_HS2012(HS2017),30021411 ---- Anticuerpos monoclonales 100%
+CHL,expanded_2017,356,hs6_300214_not_in_HS2012(HS2017),30021412 ---- Proteínas recombinantes 100%
+CHL,expanded_2017,357,hs6_300214_not_in_HS2012(HS2017),30021413 ---- Péptidos sintéticos 100%
+CHL,expanded_2017,358,hs6_300214_not_in_HS2012(HS2017),30021414 ---- Ácidos nucleicos sintéticos 100%
+CHL,expanded_2017,359,hs6_300214_not_in_HS2012(HS2017),30021419 ---- Los demás 100%
+CHL,expanded_2017,360,hs6_300214_not_in_HS2012(HS2017),30021420 --- Para uso veterinario 100%
+CHL,expanded_2017,361,hs6_300215_not_in_HS2012(HS2017),30021511 ---- Anticuerpos monoclonales 100%
+CHL,expanded_2017,362,hs6_300215_not_in_HS2012(HS2017),30021512 ---- Proteínas recombinantes 100%
+CHL,expanded_2017,363,hs6_300215_not_in_HS2012(HS2017),30021513 ---- Péptidos sintéticos 100%
+CHL,expanded_2017,364,hs6_300215_not_in_HS2012(HS2017),30021514 ---- Ácidos nucleicos sintéticos 100%
+CHL,expanded_2017,365,hs6_300215_not_in_HS2012(HS2017),30021519 ---- Los demás 100%
+CHL,expanded_2017,366,hs6_300215_not_in_HS2012(HS2017),30021520 --- Para uso veterinario 100%
+CHL,expanded_2017,367,hs6_300219_not_in_HS2012(HS2017),30021910 --- Para uso humano 100%
+CHL,expanded_2017,368,hs6_300219_not_in_HS2012(HS2017),30021920 --- Para uso veterinario 100%
+CHL,expanded_2017,382,hs6_300341_not_in_HS2012(HS2017),30034110 --- Para uso humano 100%
+CHL,expanded_2017,383,hs6_300342_not_in_HS2012(HS2017),30034210 --- Para uso humano 100%
+CHL,expanded_2017,384,hs6_300343_not_in_HS2012(HS2017),30034310 --- Para uso humano 100%
+CHL,expanded_2017,385,hs6_300349_not_in_HS2012(HS2017),30034910 --- Para uso humano 100%
+CHL,expanded_2017,386,hs6_300360_not_in_HS2012(HS2017),"30036000 - Los demás, que contengan los 80% principios activos contra la malaria (paludismo)"
+CHL,expanded_2017,409,hs6_300441_not_in_HS2012(HS2017),30044111 ---- En aerosol con gas propelente 60%
+CHL,expanded_2017,410,hs6_300441_not_in_HS2012(HS2017),30044119 ---- Los demás 60%
+CHL,expanded_2017,411,hs6_300442_not_in_HS2012(HS2017),30044211 ---- En aerosol con gas propelente 60%
+CHL,expanded_2017,412,hs6_300442_not_in_HS2012(HS2017),30044219 ---- Los demás 60%
+CHL,expanded_2017,413,hs6_300443_not_in_HS2012(HS2017),30044311 ---- En aerosol con gas propelente 60%
+CHL,expanded_2017,414,hs6_300443_not_in_HS2012(HS2017),30044319 ---- Los demás 60%
+CHL,expanded_2017,415,hs6_300449_not_in_HS2012(HS2017),"30044930 --- Para uso humano, en aerosol con 60% gas propelente"
+CHL,expanded_2017,416,hs6_300449_not_in_HS2012(HS2017),30044941 ---- Que contengan productos 60% opiáceos o sus derivados sin acción estupefaciente
+CHL,expanded_2017,417,hs6_300449_not_in_HS2012(HS2017),30044949 ---- Los demás 60%
+CHL,expanded_2017,420,hs6_300460_not_in_HS2012(HS2017),"30046000 - Los demás, que contengan los 60% principios activos contra la malaria (paludismo)"
+CHL,expanded_2017,530,hs6_380852_not_in_HS2012(HS2017),"38085200 -- DDT (ISO) (clofenotano (DCI)), 60% acondicionado en envases con un contenido"
+CHL,expanded_2017,531,hs6_380859_not_in_HS2012(HS2017),"38085900 -- Los demás 60%: Productos de la partida 38.08, que contengan una o más de las sustancias "
+CHL,expanded_2017,532,hs6_380862_not_in_HS2012(HS2017),38086200 -- Acondicionados en envases con un 0%: Contenido neto contenido en peso neto superior a in
+CHL,expanded_2017,533,hs6_380869_not_in_HS2012(HS2017),38086900 -- Los demás 60%
+CHL,expanded_2017,550,hs6_381231_not_in_HS2012(HS2017),"38123100 -- Mezclas de oligómeros de 2,2,4- 80% trimetil-1,2-dihidroquinoleína (TMQ)"
+CHL,expanded_2017,551,hs6_381239_not_in_HS2012(HS2017),38123900 -- Los demás 80%
+CHL,expanded_2017,559,hs6_382484_not_in_HS2012(HS2017),"38248400 -- Que contengan aldrina (ISO), 80% canfecloro (ISO)"
+CHL,expanded_2017,560,hs6_382485_not_in_HS2012(HS2017),"38248500 -- Que contengan 1,2,3,4,5,6- 80% hexaclorociclohexano"
+CHL,expanded_2017,561,hs6_382486_not_in_HS2012(HS2017),38248600 -- Que contengan pentaclorobenceno 80% (ISO) o hexaclorobenceno (ISO)
+CHL,expanded_2017,562,hs6_382487_not_in_HS2012(HS2017),"38248700 -- Que contengan ácido 80% perfluorooctano sulfónico o sus sales,"
+CHL,expanded_2017,563,hs6_382488_not_in_HS2012(HS2017),"38248800 -- Que contengan éteres tetra-, 80% penta-, hexa-, hepta- u octabromodifenílicos"
+CHL,expanded_2017,564,hs6_382491_not_in_HS2012(HS2017),38249100 -- Mezclas y preparaciones 80% constituidas esencialmente
+CHL,expanded_2017,565,hs6_382499_not_in_HS2012(HS2017),38249930 --- Parafinas cloradas 100%
+CHL,expanded_2017,566,hs6_382499_not_in_HS2012(HS2017),38249941 ---- Preparaciones extractantes de 100% metales para aplicación en minerales
+CHL,expanded_2017,567,hs6_382499_not_in_HS2012(HS2017),38249999 ---- Los demás 8 0 %
+CHL,expanded_2017,579,hs6_390761_not_in_HS2012(HS2017),39076100 -- Con un índice de viscosidad 80% superior o igual a 78 ml/g
+CHL,expanded_2017,580,hs6_390769_not_in_HS2012(HS2017),39076900 -- Los demás 80%
+CHL,expanded_2017,656,hs6_401170_not_in_HS2012(HS2017),40117000 - De los tipos utilizados en vehículos 60%: Con altos relieves y máquinas agrícolas o fores
+CHL,expanded_2017,657,hs6_401180_not_in_HS2012(HS2017),"40118090 -- Los demás 80%: Neumáticos con altos relieves en forma de taco, ángulo o similares, de lo"
+CHL,expanded_2017,658,hs6_401190_not_in_HS2012(HS2017),"40119000 - Los demás 0%: Con altos relieves en forma de taco, ángulo o similares, de los tipos utili"
+CHL,expanded_2017,717,hs6_441911_not_in_HS2012(HS2017),"44191100 -- Tablas para pan, tablas para cortar 80% y artículos similares"
+CHL,expanded_2017,718,hs6_441912_not_in_HS2012(HS2017),44191200 -- Palillos 80%
+CHL,expanded_2017,719,hs6_441919_not_in_HS2012(HS2017),44191900 -- Los demás 80%
+CHL,expanded_2017,720,hs6_441990_not_in_HS2012(HS2017),44199000 - Los demás 80%
+CHL,expanded_2017,725,hs6_442191_not_in_HS2012(HS2017),44219100 -- De bambú 80%
+CHL,expanded_2017,726,hs6_442199_not_in_HS2012(HS2017),44219990 --- Las demás 80%
+CHL,expanded_2017,816,hs6_540263_not_in_HS2012(HS2017),54026300 -- De polipropileno 80%
+CHL,expanded_2017,879,hs6_570420_not_in_HS2012(HS2017),"57042000 - De superficie superior a 0,3 m² pero 60% inferior o igual a 1 m²"
+CHL,expanded_2017,1073,hs6_630420_not_in_HS2012(HS2017),"63042000 - Mosquiteros, especificados en la 60% Nota 1 de subpartida de este Capítulo"
+CHL,expanded_2017,1482,hs6_845640_not_in_HS2012(HS2017),84564000 - Que operen mediante chorro de 100% plasma
+CHL,expanded_2017,1483,hs6_845650_not_in_HS2012(HS2017),84565000 - Máquinas para cortar por chorro de 100% agua
+CHL,expanded_2017,1667,hs6_852852_not_in_HS2012(HS2017),85285211 ---- De cristal líquido 0%: De los tipos utilizados exclusiva o principalmente en un sistem
+CHL,expanded_2017,1668,hs6_852852_not_in_HS2012(HS2017),85285212 ---- De plasma 0%: De los tipos utilizados exclusiva o principalmente en un sistema automát
+CHL,expanded_2017,1669,hs6_852852_not_in_HS2012(HS2017),85285219 ---- Los demás 0%: De los tipos utilizados exclusiva o principalmente en un sistema automát
+CHL,expanded_2017,1671,hs6_852862_not_in_HS2012(HS2017),85286200 -- Aptos para ser conectados 0%: De los tipos directamente y diseñados para ser utilizados 
+CHL,expanded_2017,1715,hs6_853950_not_in_HS2012(HS2017),"85395010 -- Con balasto incorporado, para uso 80% interior"
+CHL,expanded_2017,1716,hs6_853950_not_in_HS2012(HS2017),"85395020 -- Con balasto incorporado, para vías 80% públicas"
+CHL,expanded_2017,1717,hs6_853950_not_in_HS2012(HS2017),85395090 -- Las demás 80%
+CHL,expanded_2017,1745,hs6_870191_not_in_HS2012(HS2017),87019110 --- Agrícolas 80%
+CHL,expanded_2017,1746,hs6_870191_not_in_HS2012(HS2017),87019190 --- Los demás 80%
+CHL,expanded_2017,1747,hs6_870192_not_in_HS2012(HS2017),87019210 --- Agrícolas 80%
+CHL,expanded_2017,1748,hs6_870192_not_in_HS2012(HS2017),87019290 --- Los demás 80%
+CHL,expanded_2017,1749,hs6_870193_not_in_HS2012(HS2017),87019310 --- Agrícolas 80%
+CHL,expanded_2017,1750,hs6_870193_not_in_HS2012(HS2017),87019390 --- Los demás 80%
+CHL,expanded_2017,1751,hs6_870194_not_in_HS2012(HS2017),87019410 --- Agrícolas 80%
+CHL,expanded_2017,1752,hs6_870194_not_in_HS2012(HS2017),87019490 --- Los demás 80%
+CHL,expanded_2017,1753,hs6_870195_not_in_HS2012(HS2017),87019510 --- Agrícolas 80%
+CHL,expanded_2017,1754,hs6_870195_not_in_HS2012(HS2017),87019590 --- Los demás 80%: Tractores de ruedas 0%: Los demás
+CHL,expanded_2017,1758,hs6_870220_not_in_HS2012(HS2017),"87022011 --- De cilindrada superior a 2.500 cm3 0%: Con motor de émbolo (pistón), de encendido por c"
+CHL,expanded_2017,1759,hs6_870220_not_in_HS2012(HS2017),"87022019 --- Los demás 60%: Con motor de émbolo (pistón), de encendido por compresión (diésel o semi"
+CHL,expanded_2017,1760,hs6_870220_not_in_HS2012(HS2017),87022091 --- De cilindrada superior a 2.500 cm3 80%
+CHL,expanded_2017,1761,hs6_870220_not_in_HS2012(HS2017),87022099 --- Los demás 60%
+CHL,expanded_2017,1762,hs6_870230_not_in_HS2012(HS2017),87023011 --- De cilindrada superior a 2.800 cm3 80%
+CHL,expanded_2017,1763,hs6_870230_not_in_HS2012(HS2017),87023019 --- Los demás 60%
+CHL,expanded_2017,1764,hs6_870230_not_in_HS2012(HS2017),87023091 --- De cilindrada superior a 2.800 cm3 80%
+CHL,expanded_2017,1765,hs6_870230_not_in_HS2012(HS2017),87023099 --- Los demás 60%
+CHL,expanded_2017,1766,hs6_870240_not_in_HS2012(HS2017),87024000 - Únicamente propulsados con motor 80% eléctrico
+CHL,expanded_2017,1792,hs6_870340_not_in_HS2012(HS2017),87034011 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas émbolo (pistón
+CHL,expanded_2017,1793,hs6_870340_not_in_HS2012(HS2017),87034014 --- Automóviles de turismo 80%
+CHL,expanded_2017,1794,hs6_870340_not_in_HS2012(HS2017),87034019 --- Los demás 80%
+CHL,expanded_2017,1795,hs6_870340_not_in_HS2012(HS2017),87034021 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas émbolo (pistón
+CHL,expanded_2017,1796,hs6_870340_not_in_HS2012(HS2017),"87034023 --- Coches ambulancia, celulares y 80%: Con motor de mortuorios émbolo (pistón) alternativo"
+CHL,expanded_2017,1797,hs6_870340_not_in_HS2012(HS2017),87034024 --- Automóviles de turismo 80%
+CHL,expanded_2017,1798,hs6_870340_not_in_HS2012(HS2017),87034029 --- Los demás 80%
+CHL,expanded_2017,1799,hs6_870340_not_in_HS2012(HS2017),87034031 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas émbolo (pistón
+CHL,expanded_2017,1800,hs6_870340_not_in_HS2012(HS2017),"87034032 --- Vehículos casa-rodante 80%: Con motor de émbolo (pistón) alternativo, de encendido por "
+CHL,expanded_2017,1801,hs6_870340_not_in_HS2012(HS2017),87034034 --- Automóviles de turismo 80%
+CHL,expanded_2017,1802,hs6_870340_not_in_HS2012(HS2017),87034039 --- Los demás 80%
+CHL,expanded_2017,1803,hs6_870340_not_in_HS2012(HS2017),87034041 --- Tipo jeep y similares con tracción 60%: Con motor de en las cuatro ruedas émbolo (pistó
+CHL,expanded_2017,1804,hs6_870340_not_in_HS2012(HS2017),"87034042 --- Vehículos casa-rodante 80%: Con motor de émbolo (pistón) alternativo, de encendido por "
+CHL,expanded_2017,1805,hs6_870340_not_in_HS2012(HS2017),87034044 --- Automóviles de turismo 80%
+CHL,expanded_2017,1806,hs6_870340_not_in_HS2012(HS2017),87034049 --- Los demás 80%
+CHL,expanded_2017,1807,hs6_870350_not_in_HS2012(HS2017),87035011 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas émbolo (pistón
+CHL,expanded_2017,1808,hs6_870350_not_in_HS2012(HS2017),87035019 --- Los demás 80%
+CHL,expanded_2017,1809,hs6_870350_not_in_HS2012(HS2017),"87035021 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas, de cilindrada"
+CHL,expanded_2017,1810,hs6_870350_not_in_HS2012(HS2017),"87035022 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas, de cilindrada"
+CHL,expanded_2017,1811,hs6_870350_not_in_HS2012(HS2017),"87035023 --- Vehículos casa-rodante 80%: Con motor de émbolo (pistón), de encendido por compresión ("
+CHL,expanded_2017,1812,hs6_870350_not_in_HS2012(HS2017),87035025 --- Automóviles de turismo 80%
+CHL,expanded_2017,1813,hs6_870350_not_in_HS2012(HS2017),87035029 --- Los demás 80%
+CHL,expanded_2017,1814,hs6_870350_not_in_HS2012(HS2017),87035031 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas émbolo (pistón
+CHL,expanded_2017,1815,hs6_870350_not_in_HS2012(HS2017),"87035032 --- Vehículos casa-rodante 80%: Con motor de émbolo (pistón), de encendido por compresión ("
+CHL,expanded_2017,1816,hs6_870350_not_in_HS2012(HS2017),87035039 --- Los demás 80%
+CHL,expanded_2017,1817,hs6_870360_not_in_HS2012(HS2017),87036011 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas émbolo (pistón
+CHL,expanded_2017,1818,hs6_870360_not_in_HS2012(HS2017),87036014 --- Automóviles de turismo 80%
+CHL,expanded_2017,1819,hs6_870360_not_in_HS2012(HS2017),87036019 --- Los demás 80%
+CHL,expanded_2017,1820,hs6_870360_not_in_HS2012(HS2017),87036021 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas émbolo (pistón
+CHL,expanded_2017,1821,hs6_870360_not_in_HS2012(HS2017),"87036023 --- Coches ambulancia, celulares y 80%: Con motor de mortuorios émbolo (pistón) alternativo"
+CHL,expanded_2017,1822,hs6_870360_not_in_HS2012(HS2017),87036024 --- Automóviles de turismo 80%
+CHL,expanded_2017,1823,hs6_870360_not_in_HS2012(HS2017),87036029 --- Los demás 80%
+CHL,expanded_2017,1824,hs6_870360_not_in_HS2012(HS2017),87036031 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas émbolo (pistón
+CHL,expanded_2017,1825,hs6_870360_not_in_HS2012(HS2017),"87036032 --- Vehículos casa-rodante 80%: Con motor de émbolo (pistón) alternativo, de encendido por "
+CHL,expanded_2017,1826,hs6_870360_not_in_HS2012(HS2017),87036034 --- Automóviles de turismo 80%
+CHL,expanded_2017,1827,hs6_870360_not_in_HS2012(HS2017),87036039 --- Los demás 80%
+CHL,expanded_2017,1828,hs6_870360_not_in_HS2012(HS2017),87036041 --- Tipo jeep y similares con tracción 60%: Con motor de en las cuatro ruedas émbolo (pistó
+CHL,expanded_2017,1829,hs6_870360_not_in_HS2012(HS2017),"87036042 --- Vehículos casa-rodante 80%: Con motor de émbolo (pistón) alternativo, de encendido por "
+CHL,expanded_2017,1830,hs6_870360_not_in_HS2012(HS2017),87036044 --- Automóviles de turismo 80%
+CHL,expanded_2017,1831,hs6_870360_not_in_HS2012(HS2017),87036049 --- Los demás 80%
+CHL,expanded_2017,1832,hs6_870370_not_in_HS2012(HS2017),87037011 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas émbolo (pistón
+CHL,expanded_2017,1833,hs6_870370_not_in_HS2012(HS2017),87037019 --- Los demás 80%
+CHL,expanded_2017,1834,hs6_870370_not_in_HS2012(HS2017),"87037021 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas, de cilindrada"
+CHL,expanded_2017,1835,hs6_870370_not_in_HS2012(HS2017),"87037022 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas, de cilindrada"
+CHL,expanded_2017,1836,hs6_870370_not_in_HS2012(HS2017),"87037023 --- Vehículos casa-rodante 80%: Con motor de émbolo (pistón), de encendido por compresión ("
+CHL,expanded_2017,1837,hs6_870370_not_in_HS2012(HS2017),87037025 --- Automóviles de turismo 80%
+CHL,expanded_2017,1838,hs6_870370_not_in_HS2012(HS2017),87037029 --- Los demás 80%
+CHL,expanded_2017,1839,hs6_870370_not_in_HS2012(HS2017),87037031 --- Tipo jeep y similares con tracción 0%: Con motor de en las cuatro ruedas émbolo (pistón
+CHL,expanded_2017,1840,hs6_870370_not_in_HS2012(HS2017),"87037032 --- Vehículos casa-rodante 80%: Con motor de émbolo (pistón), de encendido por compresión ("
+CHL,expanded_2017,1841,hs6_870370_not_in_HS2012(HS2017),87037039 --- Los demás 80%
+CHL,expanded_2017,1842,hs6_870380_not_in_HS2012(HS2017),"87038000 - Los demás vehículos, propulsados 80% únicamente con motor eléctrico"
+CHL,expanded_2017,1906,hs6_871160_not_in_HS2012(HS2017),87116000 - Propulsados con motor eléctrico 80%
+CHL,expanded_2017,2099,hs6_962000_not_in_HS2012(HS2017),"96200000 Monopies, bípodes, trípodes y 0%: Partes y accesorios artículos similares de cámaras fotogr"

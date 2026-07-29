@@ -1,0 +1,14 @@
+# Large derived files, fully regenerable by running the pipeline (see README.md)
+intermediate/baci_relevant_all.dta
+output/panel_bilateral_balanced_full_2012_2024.dta
+output/panel_bilateral_balanced_noncopper_2012_2024.dta
+output/chile_exports_world_hs6_year.dta
+output/india_imports_world_hs6_year.dta
+
+# Raw BACI yearly CSV/zip downloads (huge, not part of the repo)
+# Keep the small reference tables already committed in raw_baci_csv/
+raw_baci_csv/BACI_HS12_Y*.csv
+raw_baci_csv/*.zip
+
+# OS/editor cruft
+.DS_Store
