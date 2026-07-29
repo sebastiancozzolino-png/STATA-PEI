@@ -10,31 +10,39 @@ This repository is a git mirror of the Google Drive project `Panel_Stata_Fajnzyl
 
 Matriz sin cobre, 5.165 productos HS6: **219 estrellas nacientes**, **1.905 oportunidades perdidas**, **228 estrellas menguantes**, **2.791 en retirada**, 22 sin demanda. El cobre 260300 (~US$950 M/año en 2022–24, cerca de la mitad del total Chile→India) se aísla en una fila de sensibilidad.
 
-## Diccionario de variables y panel maestro
+## Diccionario de variables, panel maestro y base consolidada
 
-- **`documentation/diccionario_variables.md`** documenta variable por variable
-  `matriz_fajnzylber_chile_india_full` (y `..._noncopper`) y el nuevo panel año-a-año
-  `output/panel_master_chile_india_2012_2024` (135.252 filas = 5.202 HS6 × 13 años × 2 direcciones).
-- Ambos incorporan dummies de cobertura AAP **calzadas por año/período** (antes solo existían
-  `d_aap_original`/`d_aap_expanded` como columnas estáticas, sin indicar qué régimen regía en
-  cada año o en cada trienio P0/P1 de la matriz): `d_covered_current_calendar` /
-  `d_covered_current_full_year` en el panel, y `d_aap_covered_p0` / `d_aap_covered_p1` /
-  `d_aap_covered_only_p1` / `d_aap_covered_only_p0` en la matriz.
-- Generados por `code/15_build_master_panel.py` y `code/16_enrich_matriz_aap_periods.py`
-  (Python; este entorno de replicación no tiene Stata instalado, así que estos scripts
-  reconstruyen en pandas la misma lógica de `08_build_balanced_panel.do`/`12_fajnzylber.do`
-  a partir de los archivos ya versionados en `intermediate/`/`output/`).
+- **`documentation/diccionario_variables.md`** documenta variable por variable:
+  `matriz_fajnzylber_chile_india_full` (y `..._noncopper`), el panel año-a-año
+  `output/panel_master_chile_india_2012_2024` (135.252 filas = 5.202 HS6 × 13 años ×
+  2 direcciones) y la base consolidada `output/base_maestra_chile_india_2012_2024`
+  (el panel anterior + todas las columnas de la matriz fusionadas en las mismas filas,
+  con prefijo `mtz_`, solo para `direction=="CHL_IND"`).
+- Los tres incorporan dummies de cobertura AAP **calzadas por año/período** (antes solo
+  existían `d_aap_original`/`d_aap_expanded` como columnas estáticas, sin indicar qué
+  régimen regía en cada año o en cada trienio P0/P1 de la matriz): `d_covered_current_calendar`
+  / `d_covered_current_full_year` en el panel, y `d_aap_covered_p0` / `d_aap_covered_p1` /
+  `d_aap_covered_only_p1` / `d_aap_covered_only_p0` en la matriz (y replicadas con
+  prefijo `mtz_` en la base consolidada).
+- **Generados en dos versiones equivalentes:**
+  - Nativa en **Stata**: `code/15_build_master_panel.do`, `code/16_enrich_matriz_aap_periods.do`,
+    `code/17_build_base_maestra.do` (ya integradas a `code/00_master.do`). Correrlas requiere
+    Stata instalado **en tu propio computador** — no se pueden ejecutar desde este entorno
+    de replicación en la nube, que no tiene Stata ni acceso a tu máquina.
+  - En **Python** (`code/15_build_master_panel.py`, `code/16_enrich_matriz_aap_periods.py`,
+    `code/17_build_base_maestra.py`): misma lógica exacta, usadas para generar los archivos
+    ya versionados en este repositorio (dado que este entorno no tiene Stata).
 
 ## Estructura de carpetas
 
 ```
 STATA-PEI/
-├── code/               do-files 00–14 (Stata) + verify_pipeline.do + aux_filter_baci.py + aux_wdi.py
-│                       + 15_build_master_panel.py + 16_enrich_matriz_aap_periods.py (Python, ver abajo)
+├── code/               do-files 00–17 (Stata, correr en tu Stata local) + verify_pipeline.do
+│                       + aux_filter_baci.py + aux_wdi.py + 15/16/17_*.py (equivalentes Python)
 ├── raw_baci_csv/       country_codes, product_codes (CSV oficiales CEPII)
 ├── crosswalk/          crosswalk de anexos, coberturas AAP, revisión manual
 ├── intermediate/       bases intermedias del pipeline (baci_relevant_all.dta excluido, ver abajo)
-├── output/             panel maestro año-a-año, matriz Fajnzylber (.dta/.xlsx/.csv), agregados, gráfico
+├── output/             base maestra consolidada, panel año-a-año, matriz Fajnzylber (.dta/.xlsx/.csv), gráfico
 ├── excel_reports/      auditoría, matriz formateada, QA, codebook, aranceles (plantilla)
 ├── documentation/      README de replicación + minuta metodológica + diccionario de variables
 └── logs/               logs de ejecución (ver nota abajo)
@@ -51,6 +59,13 @@ STATA-PEI/
    Alternativa rápida ya probada: `do code/verify_pipeline.do` reconstruye y valida el núcleo
    (agregados → matriz → QA) desde `intermediate/baci_relevant_all.dta`, sin necesidad de la descarga.
 4. **Controles WDI** (opcional, sin registro): `python3 code/aux_wdi.py raw_external`.
+5. **Base consolidada con dummies calzadas por año** (pasos 15–17, ya incluidos en
+   `00_master.do`): si tienes Stata instalado en tu computador, simplemente correr el
+   pipeline completo del paso 3 ya te deja `output/base_maestra_chile_india_2012_2024.dta`.
+   Este entorno de replicación en la nube no tiene Stata, así que aquí esos tres pasos se
+   corrieron con sus equivalentes en Python (`code/15_build_master_panel.py`,
+   `code/16_enrich_matriz_aap_periods.py`, `code/17_build_base_maestra.py`) sobre los
+   archivos que ya estaban en `intermediate/`/`output/`, sin necesidad de la descarga de BACI.
 
 ## Fuentes de datos
 

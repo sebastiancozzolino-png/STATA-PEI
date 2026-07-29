@@ -40,5 +40,8 @@ do "$CODE/11_merge_final.do"
 do "$CODE/12_fajnzylber.do"
 do "$CODE/13_quality_assurance.do"
 do "$CODE/14_tables_graphs.do"
+do "$CODE/15_build_master_panel.do"
+do "$CODE/16_enrich_matriz_aap_periods.do"
+do "$CODE/17_build_base_maestra.do"
 di as txt "== Pipeline terminado: $S_DATE $S_TIME =="
 log close

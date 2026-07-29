@@ -17,6 +17,45 @@ las dummies de cobertura AAP no estaban calzadas por año/período).
 > generadas por `code/15_build_master_panel.py` y `code/16_enrich_matriz_aap_periods.py`
 > (Python, porque este entorno de replicación no tiene Stata instalado; la lógica replica
 > exactamente la de `08_build_balanced_panel.do` y extiende la de `12_fajnzylber.do`).
+> Existen también como `.do` nativos (`code/15_build_master_panel.do`,
+> `code/16_enrich_matriz_aap_periods.do`) para correr en Stata local — ver §0.
+
+Además se agregó **una sola base consolidada** (`base_maestra_chile_india_2012_2024`,
+§0) que junta el panel año-a-año con las variables de la matriz en las mismas filas,
+para quien prefiera trabajar con un único archivo en vez de cruzar dos tablas.
+
+---
+
+## 0. `base_maestra_chile_india_2012_2024` (output/, formatos .dta/.csv) — NUEVO
+
+**Unidad de observación:** producto HS6 × año × dirección, igual que el panel maestro
+de §2 (135.252 filas) — **es el panel de §2 con las variables de la matriz de §1
+fusionadas en las mismas filas** (columnas con prefijo `mtz_`), para tener "todo en una
+sola base" sin tener que cruzar dos tablas.
+
+- Columnas **sin** prefijo `mtz_`: idénticas a `panel_master_chile_india_2012_2024`
+  (§2) — `hs6`, `hs2`, `hs4`, `year`, `direction`, `trade_value_usd`, `quantity_tons`,
+  dummies AAP calzadas por año, etc. Varían fila a fila (año a año).
+- Columnas **con** prefijo `mtz_` (p. ej. `mtz_quadrant_code`, `mtz_d_aap_covered_p0`,
+  `mtz_delta_chile_share_product`): idénticas en definición a las de
+  `matriz_fajnzylber_chile_india_full` (§1) — son valores de **período** (P0 o P1), no
+  de año calendario, así que se repiten idénticas en las 13 filas-año de cada HS6.
+  **Solo existen para `direction=="CHL_IND"`**: la matriz Fajnzylber de este proyecto es
+  unidireccional (mide competitividad exportadora de Chile hacia India), así que las
+  filas `direction=="IND_CHL"` quedan con estas columnas en blanco (missing) — no hay
+  "matriz India→Chile" que fusionar ahí.
+- `description_hs12` **no** se incluye aquí (se repetiría 26 veces por HS6, inflando el
+  archivo sin agregar información): cruzar por `hs6` con
+  `intermediate/product_codes_hs12.dta` si se necesita el texto descriptivo.
+- Generada por `code/17_build_base_maestra.py` (o `.do` en Stata local).
+
+**Cuándo usar cada archivo:**
+- ¿Necesitas la evolución año a año del comercio y de la cobertura AAP? → §2
+  (`panel_master...`), más liviano (sin las columnas repetidas de período).
+- ¿Necesitas solo la clasificación Fajnzylber por producto (P0 vs P1)? → §1
+  (`matriz_fajnzylber...`).
+- ¿Necesitas cruzar ambas cosas en una sola consulta/exportación (p. ej. "año en que un
+  producto estrella_naciente empezó a tener comercio positivo")? → esta base (§0).
 
 ---
 
