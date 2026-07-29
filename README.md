@@ -10,17 +10,33 @@ This repository is a git mirror of the Google Drive project `Panel_Stata_Fajnzyl
 
 Matriz sin cobre, 5.165 productos HS6: **219 estrellas nacientes**, **1.905 oportunidades perdidas**, **228 estrellas menguantes**, **2.791 en retirada**, 22 sin demanda. El cobre 260300 (~US$950 M/año en 2022–24, cerca de la mitad del total Chile→India) se aísla en una fila de sensibilidad.
 
+## Diccionario de variables y panel maestro
+
+- **`documentation/diccionario_variables.md`** documenta variable por variable
+  `matriz_fajnzylber_chile_india_full` (y `..._noncopper`) y el nuevo panel año-a-año
+  `output/panel_master_chile_india_2012_2024` (135.252 filas = 5.202 HS6 × 13 años × 2 direcciones).
+- Ambos incorporan dummies de cobertura AAP **calzadas por año/período** (antes solo existían
+  `d_aap_original`/`d_aap_expanded` como columnas estáticas, sin indicar qué régimen regía en
+  cada año o en cada trienio P0/P1 de la matriz): `d_covered_current_calendar` /
+  `d_covered_current_full_year` en el panel, y `d_aap_covered_p0` / `d_aap_covered_p1` /
+  `d_aap_covered_only_p1` / `d_aap_covered_only_p0` en la matriz.
+- Generados por `code/15_build_master_panel.py` y `code/16_enrich_matriz_aap_periods.py`
+  (Python; este entorno de replicación no tiene Stata instalado, así que estos scripts
+  reconstruyen en pandas la misma lógica de `08_build_balanced_panel.do`/`12_fajnzylber.do`
+  a partir de los archivos ya versionados en `intermediate/`/`output/`).
+
 ## Estructura de carpetas
 
 ```
 STATA-PEI/
-├── code/               do-files 00–14 + verify_pipeline.do + aux_filter_baci.py + aux_wdi.py
+├── code/               do-files 00–14 (Stata) + verify_pipeline.do + aux_filter_baci.py + aux_wdi.py
+│                       + 15_build_master_panel.py + 16_enrich_matriz_aap_periods.py (Python, ver abajo)
 ├── raw_baci_csv/       country_codes, product_codes (CSV oficiales CEPII)
 ├── crosswalk/          crosswalk de anexos, coberturas AAP, revisión manual
 ├── intermediate/       bases intermedias del pipeline (baci_relevant_all.dta excluido, ver abajo)
-├── output/             panels .dta, matriz Fajnzylber (.dta/.xlsx/.csv), agregados, gráfico
+├── output/             panel maestro año-a-año, matriz Fajnzylber (.dta/.xlsx/.csv), agregados, gráfico
 ├── excel_reports/      auditoría, matriz formateada, QA, codebook, aranceles (plantilla)
-├── documentation/      README de replicación + minuta metodológica
+├── documentation/      README de replicación + minuta metodológica + diccionario de variables
 └── logs/               logs de ejecución (ver nota abajo)
 ```
 
@@ -59,8 +75,8 @@ Los siguientes archivos derivados son grandes y completamente regenerables ejecu
 | Archivo | Carpeta | Tamaño aprox. | Cómo regenerarlo |
 |---|---|---|---|
 | `baci_relevant_all.dta` | `intermediate/` | 68 MB | `code/aux_filter_baci.py` sobre la descarga cruda de BACI |
-| `panel_bilateral_balanced_full_2012_2024.dta` | `output/` | 46 MB | `code/08_build_balanced_panel.do` en adelante |
-| `panel_bilateral_balanced_noncopper_2012_2024.dta` | `output/` | 46 MB | ídem, sin cobre |
+| `panel_bilateral_balanced_full_2012_2024.dta` | `output/` | 46 MB | `code/08_build_balanced_panel.do` en adelante — o usar `panel_master_chile_india_2012_2024` (sí versionado, ver arriba), que trae la misma información más las dummies calzadas por año |
+| `panel_bilateral_balanced_noncopper_2012_2024.dta` | `output/` | 46 MB | ídem, sin cobre — filtrar `panel_master_chile_india_2012_2024` con `d_copper_260300==0` |
 | `chile_exports_world_hs6_year.dta` | `output/` | 14 MB | `code/03_build_baci_aggregates.do` |
 | `india_imports_world_hs6_year.dta` | `output/` | 18 MB | `code/03_build_baci_aggregates.do` |
 
